@@ -1,0 +1,70 @@
+{
+  "type": "fabric_swatch",
+  "name": "Fabric Swatch",
+  "description": "Reusable material/color swatches referenced by Shopify products and variants.",
+  "access": {
+    "storefront": "PUBLIC_READ"
+  },
+  "fieldDefinitions": [
+    {
+      "key": "display_name",
+      "name": "Display name",
+      "type": "single_line_text_field",
+      "required": true
+    },
+    {
+      "key": "color_family",
+      "name": "Color family",
+      "type": "single_line_text_field",
+      "required": false
+    },
+    {
+      "key": "hex",
+      "name": "Hex color",
+      "type": "color",
+      "required": false
+    },
+    {
+      "key": "material",
+      "name": "Material",
+      "type": "single_line_text_field",
+      "required": false
+    },
+    {
+      "key": "pattern",
+      "name": "Pattern",
+      "type": "single_line_text_field",
+      "required": false
+    },
+    {
+      "key": "texture_image",
+      "name": "Texture image",
+      "type": "file_reference",
+      "required": false
+    },
+    {
+      "key": "vendor",
+      "name": "Vendor",
+      "type": "single_line_text_field",
+      "required": false
+    },
+    {
+      "key": "source_collection",
+      "name": "Source collection",
+      "type": "single_line_text_field",
+      "required": false
+    },
+    {
+      "key": "active",
+      "name": "Active",
+      "type": "boolean",
+      "required": true
+    },
+    {
+      "key": "notes",
+      "name": "Notes",
+      "type": "multi_line_text_field",
+      "required": false
+    }
+  ]
+}
