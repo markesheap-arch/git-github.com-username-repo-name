@@ -1,0 +1,4 @@
+swatch_id,display_name,shopify_handle,color_family,hex,material,pattern,texture_image_filename,texture_image_url,vendor,source_collection,active,notes
+sw_0001,Ivory Boucle,ivory-boucle,White,#F4EFE7,Boucle,Solid,swatch-boucle-ivory-sw_0001.svg,images/swatch-boucle-ivory-sw_0001.svg,TBD,TBD,true,Starter placeholder image; replace with real fabric photo when available
+sw_0002,Charcoal Linen,charcoal-linen,Gray,#3F3D3A,Linen,Woven,swatch-linen-charcoal-sw_0002.svg,images/swatch-linen-charcoal-sw_0002.svg,TBD,TBD,true,Starter placeholder image; replace with real fabric photo when available
+sw_0003,Natural Oak,natural-oak,Brown,#B68A5A,Wood,Grain,swatch-wood-natural-oak-sw_0003.svg,images/swatch-wood-natural-oak-sw_0003.svg,TBD,TBD,true,Starter placeholder image; replace with real material photo when available
